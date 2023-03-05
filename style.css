@@ -9,6 +9,20 @@ body{
     position: relative;
 }
 
+#source > a {
+    color: white;
+}
+
+#source {
+    position: absolute;
+    font-size: 12px;
+    bottom: 1vh;
+    text-align: center;
+    width: 36vw;
+    color: white;
+    text-shadow: 1px 1px black;
+}
+
 .brand {
     display: flex;
     position: absolute;
